@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <!-- Outer Cyan Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3"
+        android:pathData="M64,8 A56,56 0 1,0 64,120 A56,56 0 1,0 64,8" />
+    <!-- Secondary Dashed Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1.5"
+        android:pathData="M64,20 A44,44 0 1,0 64,108 A44,44 0 1,0 64,20" />
+    <!-- Hexagonal Core / Reactor -->
+    <path
+        android:fillColor="#102A43"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M64,40 L84,52 L84,76 L64,88 L44,76 L44,52 Z" />
+    <!-- Center Core Glow -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M64,54 A10,10 0 1,0 64,74 A10,10 0 1,0 64,54" />
+</vector>

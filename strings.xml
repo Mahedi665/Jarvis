@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_title">JARVIS AI ASSISTANT</string>
+    <string name="status_ready">ONLINE // READY</string>
+    <string name="status_listening">LISTENING...</string>
+    <string name="status_thinking">ANALYZING WITH GEMINI AI...</string>
+    <string name="status_speaking">SPEAKING...</string>
+    <string name="tap_to_speak">TAP TO SPEAK</string>
+    <string name="stop_listening">STOP LISTENING</string>
+    <string name="mic_permission_required">Microphone permission is required to listen to your voice.</string>
+    <string name="mic_permission_rationale">JARVIS uses the microphone strictly when you tap the mic or trigger voice actions to understand your commands.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="language_english">English (US)</string>
+    <string name="language_bengali">বাংলা (Bangladesh)</string>
+    <string name="bengali_tts_missing">Bengali voice data is not installed on this Android device.</string>
+    <string name="install_tts_data">Install Voice Data in Settings</string>
+    <string name="custom_commands">Custom Commands</string>
+    <string name="add_command">Add Custom Command</string>
+    <string name="command_phrase">Voice Phrase</string>
+    <string name="command_response">Jarvis Response / Action</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="wake_word_title">Hey Jarvis Wake Word</string>
+    <string name="wake_word_subtitle">Foreground Service &amp; Battery Notice</string>
+    <string name="app_not_found">The requested application could not be found on this phone.</string>
+    <string name="opening_youtube">Opening YouTube, Sir.</string>
+    <string name="opening_chrome">Launching browser, Sir.</string>
+    <string name="opening_settings">Opening Android system settings.</string>
+</resources>
